@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Koleo</string>
+    <string name="last_refresh_date_key">LastRefreshDate</string>
+    <string name="selected_max_stations">Zaznaczono już 2 stacje!</string>
+    <string name="button_calculate">Oblicz odległość</string>
+    <string name="epmty_string">Brak</string>
+    <string name="name_slug_label">Nazwa "Slug":</string>
+    <string name="coordinates_label">Współ. geograf.:</string>
+    <string name="hits_label">Hits:</string>
+    <string name="ibnr_label">Ibnr:</string>
+    <string name="search_input_hint">Wyszukaj stację…</string>
+    <string name="loading_data">Trwa ładowanie danych…</string>
+</resources>

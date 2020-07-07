@@ -1,0 +1,1 @@
+Aplikacja została stworzona na Androida w wersji min. 5.0. Aby uruchomić aplikację należy pobrać cały projekt i przy pomocy Android Studio uruchomić go bezpośrdenio na urządzeniu lub emulatorze. Można również przy pomocy Android Studio zbudować aplikację do pliku .apk i zainstalować na urządzeniu z Androidem min. 5.0 poprzez uruchomienie pliku .apk na urządzeniu.
